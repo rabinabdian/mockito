@@ -74,7 +74,7 @@ public class TestList {
 
         //then
         Assert.assertThat("in28Minutes", is(list.get(0)));
-        Assert.assertThat("in28Minutes", is(list.get(0)));
+        Assert.assertThat("in28Minutes", is(list.get(1)));
     }
 
 
